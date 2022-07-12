@@ -600,7 +600,10 @@ VisualEffect:
     m_Vector2f:
       m_Array: []
     m_Vector3f:
-      m_Array: []
+      m_Array:
+      - m_Value: {x: 0.5, y: 0.5, z: 0}
+        m_Name: Wind Velocity
+        m_Overridden: 1
     m_Vector4f:
       m_Array: []
     m_Uint:
